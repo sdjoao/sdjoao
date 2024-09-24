@@ -6,7 +6,6 @@
 
 
 ### Tecnologias que estou estudo atualmente:
-
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -19,8 +18,8 @@
 
 </div>
 
-### outras ferramentas que eu utilizo:
 
+### outras ferramentas que eu utilizo:
 <div style="display: inline_block"><br/>
     <img align="center" alt="udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
     <img align="center" alt="apache-netbeans" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"/>
